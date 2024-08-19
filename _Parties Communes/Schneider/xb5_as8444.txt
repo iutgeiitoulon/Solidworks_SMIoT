@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-29052009-106837";"";
+"REFERENCE";"XB5 AS8444";"";
+"TraceParts.PartTitle";"Unité de commande et de signalisation Ø 22 Harmony XB5 plastique - Boutons-poussoirs coup de poing à accrochage - Arrêt d'urgence à verrouillage brusque à accrochage mécanique - Produit complet";"";
+"TraceParts.InstanceId";"10-29052009-106837BAO5AZZJ1JMUSVDE7X8Y147QC";"";
+"DESIGN";"Unité de commande et de signalisation Ø 22 Harmony XB5 plastique - Boutons-poussoirs coup de poing à accrochage - Arrêt d'urgence à verrouillage brusque à accrochage mécanique - Produit complet, XB5 AS8444";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Schneider Electric";"";
+"TraceParts.PartVersion";"1.1.5";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"fr";"";
+"TraceParts.ClassPath";"SCHNEIDER_ELECTRIC:/F_SCHNEIDER/F_TELEMECANIQUE/F_TELEMECANIQUE.04/F_TELEMECANIQUE.04.010/F_TELEMECANIQUE.04.010.020/10-29052009-106837";"";
