@@ -1,0 +1,28 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('Cage_Hydrophone.STEP',
+    '2018-09-28T21:08:47',
+    ( '' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2016',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #10, 'design' ) ;
+#2 = PRODUCT ( 'Cage_Hydrophone', 'Cage_Hydrophone', '', ( #6 ) ) ;
+#3 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #10 ) ;
+#4 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #8 ) ;
+#5 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #2 ) ) ;
+#6 = PRODUCT_CONTEXT ( 'NONE', #7, 'mechanical' ) ;
+#7 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#8 = PRODUCT_DEFINITION ( 'UNKNOWN', '', #11, #1 ) ;
+#9 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #7 ) ;
+#10 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#11 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( 'ANY', '', #2, .NOT_KNOWN. ) ;
+ENDSEC;
+END-ISO-10303-21;
