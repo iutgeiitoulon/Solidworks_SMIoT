@@ -1,0 +1,5 @@
+13:32:46:695 [ALWAYS]	GUDE Logging Started
+13:32:46:696 [INFO]	gude policy POLICY_USER limit (4,4,1) chunk 2097152, chunking (UL 0 DL 1), resXfer 1, adapt 0, NSURL 1, timeout 86400 
+13:32:46:696 [INFO]	Initialized -- gude-lib version: v0.10.4 app: gude
+13:32:48:701 [WARN]	Request Failed. ErrorCode: 112007 errorMessage: Platform Status, Send Request Failed. WinHTTP Name Not Resolved. last error code = 12007 
+13:32:50:704 [WARN]	Request Failed. ErrorCode: 112007 errorMessage: Platform Status, Send Request Failed. WinHTTP Name Not Resolved. last error code = 12007 
