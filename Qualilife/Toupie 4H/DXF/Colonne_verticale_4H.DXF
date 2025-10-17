@@ -445,19 +445,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2460717.653535718
+2460966.628896076
   9
 $TDUCREATE
  40
-2460717.611869051
+2460966.545562743
   9
 $TDUPDATE
  40
-2460717.653549248
+2460966.628924017
   9
 $TDUUPDATE
  40
-2460717.611882581
+2460966.545590683
   9
 $TDINDWG
  40
@@ -505,7 +505,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-78
+7A
   9
 $SURFTAB1
  70
@@ -885,7 +885,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{0fb48e1a-d051-4ebf-8877-f35051cd09cb}
+{930f8c9b-8479-41bf-869f-c0d2aae6e3c0}
   9
 $VERSIONGUID
   2
@@ -1469,7 +1469,7 @@ STYLE
 100
 AcDbSymbolTable
  70
-     1
+     2
   0
 STYLE
   5
@@ -1498,6 +1498,34 @@ Standard
 txt
   4
 
+  0
+STYLE
+  5
+77
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+SLDTEXTSTYLE0
+ 70
+     0
+ 40
+0.0
+ 41
+0.7
+ 50
+0.0
+ 71
+     0
+ 42
+3.5
+  3
+TXT
+  4
+bigfont
   0
 ENDTAB
   0
@@ -2177,7 +2205,7 @@ AcDbLine
  31
 0.0
   0
-CIRCLE
+LINE
   5
 6F
 330
@@ -2193,17 +2221,21 @@ Continuous
 370
     25
 100
-AcDbCircle
+AcDbLine
  10
-1.5
+-4.0
  20
-29.0
+51.0
  30
 0.0
- 40
-0.8000000000000014
+ 11
+-4.0
+ 21
+27.0
+ 31
+0.0
   0
-CIRCLE
+ARC
   5
 70
 330
@@ -2221,15 +2253,21 @@ Continuous
 100
 AcDbCircle
  10
--4.5
+0.0
  20
-29.0
+51.0
  30
 0.0
  40
-0.799999999999998
+3.999999999999984
+100
+AcDbArc
+ 50
+0.0
+ 51
+180.0
   0
-CIRCLE
+LINE
   5
 71
 330
@@ -2245,17 +2283,21 @@ Continuous
 370
     25
 100
-AcDbCircle
+AcDbLine
  10
-1.5
+4.0
  20
-65.0
+27.0
  30
 0.0
- 40
-0.8000000000000012
+ 11
+4.0
+ 21
+51.0
+ 31
+0.0
   0
-CIRCLE
+ARC
   5
 72
 330
@@ -2273,15 +2315,21 @@ Continuous
 100
 AcDbCircle
  10
--4.5
+0.0
  20
-65.0
+27.0
  30
 0.0
  40
-0.799999999999998
+3.999999999999982
+100
+AcDbArc
+ 50
+180.0
+ 51
+0.0
   0
-CIRCLE
+LINE
   5
 73
 330
@@ -2297,17 +2345,21 @@ Continuous
 370
     25
 100
-AcDbCircle
+AcDbLine
  10
--1.5
+4.0
  20
-65.0
+67.0
  30
 0.0
- 40
-0.8000000000000009
+ 11
+4.0
+ 21
+91.0
+ 31
+0.0
   0
-CIRCLE
+ARC
   5
 74
 330
@@ -2325,15 +2377,21 @@ Continuous
 100
 AcDbCircle
  10
-4.5
+0.0
  20
-65.0
+67.0
  30
 0.0
  40
-0.8000000000000016
+3.999999999999984
+100
+AcDbArc
+ 50
+180.0
+ 51
+0.0
   0
-CIRCLE
+LINE
   5
 75
 330
@@ -2349,17 +2407,21 @@ Continuous
 370
     25
 100
-AcDbCircle
+AcDbLine
  10
--1.5
+-4.0
  20
-29.0
+91.0
  30
 0.0
- 40
-0.8000000000000009
+ 11
+-4.0
+ 21
+67.0
+ 31
+0.0
   0
-CIRCLE
+ARC
   5
 76
 330
@@ -2377,13 +2439,57 @@ Continuous
 100
 AcDbCircle
  10
-4.5
+0.0
  20
-29.0
+91.0
  30
 0.0
  40
-0.8000000000000016
+3.999999999999982
+100
+AcDbArc
+ 50
+0.0
+ 51
+180.0
+  0
+MTEXT
+  5
+78
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+100
+AcDbMText
+ 10
+-6.0
+ 20
+16.4804336083
+ 30
+0.0
+ 40
+4.83362
+ 41
+0.0
+ 71
+     1
+ 72
+     1
+  1
+Produit d'éducation SOLIDWORKS – A titre éducatif uniquement.
+  7
+SLDTEXTSTYLE0
+ 73
+     1
+ 44
+1.0
   0
 ENDSEC
   0
@@ -2427,7 +2533,7 @@ ACAD_SCALELIST
   3
 DWGPROPS
 350
-77
+79
   0
 DICTIONARY
   5
@@ -2619,7 +2725,7 @@ B6
   0
 XRECORD
   5
-77
+79
 102
 {ACAD_REACTORS
 330
@@ -2671,9 +2777,9 @@ vgies
  40
 0.0
  41
-2460717.611869051
+2460966.545562743
  42
-2460717.611882581
+2460966.545590683
   1
 
  90
